@@ -1,0 +1,3 @@
+rootProject.name = 'omdb_search'
+
+include ':app'
